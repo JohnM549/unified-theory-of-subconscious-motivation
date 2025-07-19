@@ -1,16 +1,51 @@
-# four-core-motivational-model# The Four-Core Motivational Model
-**Created by John Christopher McDonagh | 2023–2025**
+# The Four-Core Motivational Model
 
-This repository documents the original theory, model architecture, and implementation framework of a universal motivational architecture based on four subconscious drives: Power, Attention, Truth, and Peace.
+**Created by John Christopher McDonagh**  
+**Original Theory Developed:** 2023–2025  
+**Date Published:** July 2025
 
-It includes:
-- Full whitepaper (.docx)
-- AI agent architecture spec
-- Implementation notes and tensor mappings
-- Authorship claim and publication timestamp
+---
 
-This theory was developed independently by John Christopher McDonagh and is publicly released under open authorship.
+## Overview
 
-> Document published July 2025. Timestamped by GitHub commit.
+This repository contains the original whitepaper and technical architecture of the Four-Core Motivational Model — a theory of subconscious motivational architecture built around four core drives:
 
+- **Power** – The drive to act, influence, and impose will
+- **Attention** – The drive to connect, express, and be salient
+- **Truth** – The drive to understand, align, and verify
+- **Peace** – The drive to stabilize, regulate, and protect
 
+---
+
+## Contents
+
+- `Four_Core_Motivational_Model_Whitepaper_by_John_McDonagh.docx` — Full theoretical whitepaper
+- `Drive_Based_AI_Architecture_by_John_McDonagh.docx` — Agent implementation specification
+
+---
+
+## Authorship & Claim
+
+This theory, structure, and language were developed independently by **John Christopher McDonagh**.  
+This repository serves as the public and timestamped authorship record.
+
+> © 2025 John Christopher McDonagh.  
+> Redistribution or derivative work must retain attribution.
+
+---
+
+## Applications
+
+- 🤖 AI agent architecture
+- 🧠 Psychological modeling
+- 🧬 Behavioral dynamics
+- 🎓 Educational design
+- 🧭 Personality typing
+
+---
+
+## License
+
+You may read, cite, or reference this material. Please credit the author.
+
+If you use the ideas, name the source.
