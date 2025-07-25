@@ -1,4 +1,4 @@
-# The Four-Core Motivational Model
+# Unified Theory of Subconscious Motivation, and The Four-Core Motivational Model
 
 **Created by John Christopher McDonagh**  
 **Original Theory Developed:** 2023–2025  
@@ -8,7 +8,9 @@
 
 ## Overview
 
-This repository contains the original whitepaper and technical architecture of the Four-Core Motivational Model — a theory of subconscious motivational architecture built around four core drives:
+This repository contains the original thoretical paper for the Unified Theory of Subconscious Motivation, which includes the Four-Core Motivational Model 
+
+It's a theory of subconscious motivational architecture built around four core drives:
 
 - **Power** – The drive to act, influence, and impose will
 - **Attention** – The drive to connect, express, and be salient
