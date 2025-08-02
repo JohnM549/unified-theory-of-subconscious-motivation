@@ -7,6 +7,7 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16722866.svg)](https://doi.org/10.5281/zenodo.16722866)
 
 
+
 ---
 
 ## Overview
@@ -28,6 +29,23 @@ It's a theory of subconscious motivational architecture built around four core d
 - `Drive_Based_AI_Architecture_by_John_McDonagh.docx` — Agent implementation specification
 
 ---
+
+
+## 📄 Citation & DOI
+
+This project is based on the theoretical framework outlined in the following publication:
+
+> **McDonagh, J.** (2025). *Unified Theory of Subconscious Motivation: The Four-Core Motivational Model*. Zenodo. [https://doi.org/10.5281/zenodo.16722866](https://doi.org/10.5281/zenodo.16722866)
+
+If you reference or build upon this work, please cite the paper above.
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16722866.svg)](https://doi.org/10.5281/zenodo.16722866)
+
+
+
+
+
+
 
 ## Authorship & Claim
 
