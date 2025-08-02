@@ -1,74 +1,80 @@
-# Unified Theory of Subconscious Motivation, and The Four-Core Motivational Model
+<h1 align="center">🧠 Unified Theory of Subconscious Motivation</h1>
+<h3 align="center">Featuring the <em>Four-Core Motivational Model</em></h3>
+<p align="center">
+  <strong>By John Christopher McDonagh</strong>  
+  <br>Original Theory: 2023–2025 &nbsp;|&nbsp; Published: July 2025  
+  <br><a href="https://doi.org/10.5281/zenodo.16722866">DOI: 10.5281/zenodo.16722866</a>
+</p>
 
-**Created by John Christopher McDonagh**  
-**Original Theory Developed:** 2023–2025  
-**Date Published:** July 2025
-
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16722866.svg)](https://doi.org/10.5281/zenodo.16722866)
-
-
-
----
-
-## Overview
-
-This repository contains the original thoretical paper for the Unified Theory of Subconscious Motivation, which includes the Four-Core Motivational Model 
-
-It's a theory of subconscious motivational architecture built around four core drives:
-
-- **Power** – The drive to act, influence, and impose will
-- **Attention** – The drive to connect, express, and be salient
-- **Truth** – The drive to understand, align, and verify
-- **Peace** – The drive to stabilize, regulate, and protect
+<p align="center">
+  <a href="https://doi.org/10.5281/zenodo.16722866">
+    <img src="https://zenodo.org/badge/DOI/10.5281/zenodo.16722866.svg" alt="DOI">
+  </a>
+</p>
 
 ---
 
-## Contents
+## 🧭 Overview
 
-- `Four_Core_Motivational_Model_Whitepaper_by_John_McDonagh.docx` — Full theoretical whitepaper
-- `Drive_Based_AI_Architecture_by_John_McDonagh.docx` — Agent implementation specification
+This repository contains the original theoretical framework for the **Unified Theory of Subconscious Motivation**, which proposes a foundational architecture of subconscious drives underlying all goal-directed behavior.
+
+At its core is the **Four-Core Motivational Model**, structured around four elemental drives:
+
+| Drive     | Core Function                         |
+|-----------|----------------------------------------|
+| ⚡ **Power**     | Agency, influence, assertive action       |
+| 🔍 **Attention** | Expression, connection, salience         |
+| 📚 **Truth**     | Understanding, alignment, verification   |
+| 🕊️ **Peace**     | Stability, regulation, preservation       |
+
+These drives shape cognition, behavior, emotion, and even system-level AI architecture.
 
 ---
 
+## 📁 Repository Contents
 
-## 📄 Citation & DOI
+- 📄 `Four_Core_Motivational_Model_Whitepaper_by_John_McDonagh.docx`  
+  &nbsp;&nbsp;&nbsp;&nbsp;🧠 Full theoretical whitepaper detailing the Four-Core Model and its interdisciplinary basis.
 
-This project is based on the theoretical framework outlined in the following publication:
+- 🧠 `Drive_Based_AI_Architecture_by_John_McDonagh.docx`  
+  &nbsp;&nbsp;&nbsp;&nbsp;🤖 Specification for integrating motivational architecture into AI cognitive loop agents.
+
+---
+
+## 📄 Citation
+
+If referencing this work in academic or technical contexts, please cite the following:
 
 > **McDonagh, J.** (2025). *Unified Theory of Subconscious Motivation: The Four-Core Motivational Model*. Zenodo. [https://doi.org/10.5281/zenodo.16722866](https://doi.org/10.5281/zenodo.16722866)
 
-If you reference or build upon this work, please cite the paper above.
+---
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16722866.svg)](https://doi.org/10.5281/zenodo.16722866)
-
-
-
-
-
-
-
-## Authorship & Claim
+## ✍️ Authorship & Public Claim
 
 This theory, structure, and language were developed independently by **John Christopher McDonagh**.  
-This repository serves as the public and timestamped authorship record.
+This repository serves as the public, timestamped authorship record.
 
-> © 2025 John Christopher McDonagh.  
-> Redistribution or derivative work must retain attribution.
-
----
-
-## Applications
-
-- 🤖 AI agent architecture
-- 🧠 Psychological modeling
-- 🧬 Behavioral dynamics
-- 🎓 Educational design
-- 🧭 Personality typing
+© 2025 John Christopher McDonagh. All rights reserved.  
+Redistribution or derivative use must retain clear attribution.
 
 ---
 
-## License
+## 🚀 Applications
 
-You may read, cite, or reference this material. Please credit the author.
+- 🤖 AI agent architecture and motivational loop systems  
+- 🧠 Psychological and behavioral modeling  
+- 🧬 Cognitive neuroscience and temperament theory  
+- 🎓 Educational system design and meta-cognitive tools  
+- 🧭 Personality profiling and developmental diagnostics  
+
+---
+
+## 📜 License
+
+**Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)**  
+You may share, cite, or use this work **non-commercially with full attribution**.  
+No derivatives or adaptations without permission.
+
+---
 
 If you use the ideas, name the source.
